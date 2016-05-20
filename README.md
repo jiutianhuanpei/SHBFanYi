@@ -4,4 +4,5 @@
 
 ![](https://github.com/jiutianhuanpei/SHBFanYi/raw/master/SHBFanYi/fanyi.png)
 
-
+>>>>
+<img src="https://github.com/jiutianhuanpei/SHBFanYi/raw/master/SHBFanYi/fanyi.png" width="375" height="660" />
